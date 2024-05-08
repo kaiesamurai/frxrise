@@ -1,73 +1,67 @@
-#### Inspiration
-The inspiration behind Voucherize DeFi stemmed from the frustration of unused vouchers and the potential for blockchain to redefine financial transactions. We envisioned a decentralized solution that not only addressed this common problem but also embraced the principles of privacy, interoperability, and scalability on the Scroll sepolia Blockchain.
+### Inspiration
 
-#### What It Does
-Voucherize DeFi is a decentralized marketplace facilitating the secure buying, selling, and trading of vouchers. It incorporates a unique bidding system, adding a competitive element to the user experience. The project not only provides a solution for voucher management but showcases the power of blockchain in decentralized finance.
+The inspiration behind Blockrise DeFi stemmed from the frustration of unused vouchers and the potential for blockchain to redefine financial transactions. We envisioned a decentralized solution that not only addressed this common problem but also embraced the principles of privacy, interoperability, and scalability on the Binance Smart Chain (BSC).
 
-[[Youtube video]](https://youtu.be/r30ZtCotUlg)
+### What It Does
 
+Blockrise DeFi is a decentralized marketplace facilitating the secure buying, selling, and trading of vouchers. It incorporates a unique bidding system, adding a competitive element to the user experience. The project not only provides a solution for voucher management but also showcases the power of blockchain in decentralized finance.
 
+[Watch the Demo Video](https://youtu.be/r30ZtCotUlg)
 
-## Scroll Sepolia Testnet -> deployed in address: 0x9fdd8562C511698A5c895a68cF250a0727AD4c0D
-## https://sepolia.scrollscan.com/address/0x9fdd8562c511698a5c895a68cf250a0727ad4c0d
+### BSC Testnet Deployment
 
-![1](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/e3a6abb8-ba18-4f40-a40e-c4b4e1cbe85f)
-![1 2](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/e8f8f665-a9c1-4b0b-b59e-8d5e5d751a03)
-![1 3](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/10a257e7-6c05-4ebd-9a82-7f9e64a42559)
-![image](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/4605135e-54fe-42d1-89fe-5a2547195803)
+- **Contract Address:** 00x9e6B513763d1D12C46C75b848D5B0675ECc9BcF3
+- [View Deployment on BSC Testnet](https://testnet.bscscan.com/address/0x9e6B513763d1D12C46C75b848D5B0675ECc9BcF3)
 
+![image](https://github.com/kaiesamurai/liskrise-defi/assets/168727731/5afa3359-e40d-4f78-b1cf-107abec1edae)
 
-#### How We Built It
-The development journey began with a clear purpose—creating a user-friendly platform. We implemented smart contracts using the ERC721 standard, integrating Scroll sepolia's privacy features for confidential transactions. The UI/Contract frontend was carefully designed to ensure a seamless and engaging interaction for users.
+### How We Built It
 
-#### Challenges We Ran Into
+The development journey began with a clear purpose—creating a user-friendly platform. We implemented smart contracts using the ERC721 standard, integrating Binance Smart Chain's privacy features for confidential transactions. The UI/Contract frontend was carefully designed to ensure a seamless and engaging interaction for users.
+
+### Challenges We Ran Into
+
 Axios network errors during image loading and transitioning from ERC20 to ERC721 presented initial challenges. Testing and debugging the smart contract added complexity, and time constraints were a constant factor. However, these challenges fueled our determination to deliver a robust solution.
 
-#### Accomplishments That We're Proud Of
+### Accomplishments That We're Proud Of
+
 Successfully overcoming the hurdles and delivering a functional MVP within the hackathon timeframe is a significant achievement. The integration of privacy features, the implementation of a bidding system, and the overall user experience are accomplishments we take pride in.
 
-#### What We Learned
-The development process provided valuable insights into smart contracts, ERC721 standards, and the nuances of Scroll sepolia Blockchain. Learning to navigate challenges, from image loading issues to adapting to a new token standard, enhanced our skills in blockchain development.
+### What We Learned
 
-#### What's Next for Voucherize
-Looking ahead, Voucherize aims to refine and expand its features. We plan to enhance privacy measures, optimize for scalability, and explore further interoperability with other blockchain networks. The journey continues as we strive to make Voucherize a cornerstone in the decentralized finance landscape.
+The development process provided valuable insights into smart contracts, ERC721 standards, and the nuances of the Binance Smart Chain. Learning to navigate challenges, from image loading issues to adapting to a new token standard, enhanced our skills in blockchain development.
 
+### What's Next for Blockrise
+
+Looking ahead, Blockrise aims to refine and expand its features. We plan to enhance privacy measures, optimize for scalability, and explore further interoperability with other blockchain networks. The journey continues as we strive to make Blockrise a cornerstone in the decentralized finance landscape.
 
 We will provide users to upload their vouchers using "IPFS" in dapp
 
 So, enable trustworthy transactions and agreements to be made between dispersed, anonymous participants without the need for a centralised authority, a legal system, or an external enforcement mechanism. The key advantages of using are:
-•Speed, efficiency and accuracy
-•Trust and transparency
-•Security
-•Resource optimisation
+- Speed, efficiency, and accuracy
+- Trust and transparency
+- Security
+- Resource optimization
 
-Tech Stacks use:
-Scroll sepolia testnet for trasactions
-Solidity
-ReactJS
-NextJS
-Hardhat
-Tailwind css
-Polygon 
-Ethereum
-IPFS
+### Tech Stacks
 
+- Binance Smart Chain for transactions
+- Solidity
+- ReactJS
+- NextJS
+- Hardhat
+- Tailwind CSS
+- Polygon 
+- Ethereum
+- IPFS
 
+### Images
 
-Images:-
-
-![image](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/2707ccf8-4761-4b74-8e76-1904c19d0f68)
-![image](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/e6a9720d-851b-408f-bb93-e9e80117d2a0)
-![image](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/d33de3c0-82ac-4f64-ae4b-b5c941c52761)
-![image](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/737ff6db-7c26-4613-8a67-22e7d16eb9fa)
-![image](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/9c506854-2afa-4973-8c41-b5384b0c22cb)
-
-
-
-
-
-
-
+![image1](https://github.com/kaiesamurai/liskrise-defi/assets/168727731/8940fa36-6157-4579-8d08-517206aae57f)
+![image2](https://github.com/kaiesamurai/liskrise-defi/assets/168727731/9dbddfec-1e26-472b-b219-b1e78a40c30f)
+![image3](https://github.com/kaiesamurai/liskrise-defi/assets/168727731/4dbf6dc1-6fcf-4800-ba7a-34ea668c585a)
+![image4](https://github.com/kaiesamurai/liskrise-defi/assets/168727731/269e27f9-2833-4171-b991-69a7ab7aaf80)
+![image5](https://github.com/kaiesamurai/liskrise-defi/assets/168727731/673ffb37-dc2a-4255-a671-1b8337e81c8a)
 
 
 

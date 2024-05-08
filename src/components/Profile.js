@@ -76,7 +76,7 @@ export default function Profile () {
                         </div>
                         <div className="ml-20">
                             <h2 className="font-bold">Total Player Value</h2>
-                            {totalPrice} ETH
+                            {totalPrice} BNB
                         </div>
                 </div>
                 <div className="flex flex-col text-center items-center mt-11 text-white ">

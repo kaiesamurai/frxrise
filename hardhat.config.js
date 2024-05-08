@@ -21,6 +21,12 @@ module.exports = {
     localhost: {
       url: "http://127.0.0.1:8545"
     },
+    bscTestnet: {
+      url: "https://data-seed-prebsc-1-s1.bnbchain.org:8545",
+      chainId: 97,
+      gasPrice: 20000000000,
+      accounts:  [process.env.WALLET_KEY]
+    },
     mumbai: {
       url: process.env.PolyApiKey,
       accounts: [ process.env.privateKey ]
