@@ -26,6 +26,7 @@ Frax Testnet is a blockchain platform designed for running smart contract-based 
 - **Contract Address:** 0xF037a5D1075DBa7aBAdc67e45a81702Bb340F16B
 - [View Deployment on Frax Testnet](https://holesky.fraxscan.com/address/0xF037a5D1075DBa7aBAdc67e45a81702Bb340F16B)
 https://holesky.fraxscan.com/address/0xF037a5D1075DBa7aBAdc67e45a81702Bb340F16B
+![image](https://github.com/kaiesamurai/frxrise/assets/96937608/21560a1f-2855-4548-bdf3-12b98dde085e)
 
 
 ## How We Built It
