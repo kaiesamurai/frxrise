@@ -27,6 +27,11 @@ module.exports = {
       gasPrice: 20000000000,
       accounts:  [process.env.WALLET_KEY]
     },
+    frxTestnet: {
+      url: "https://rpc.testnet.frax.com",
+      chainId: 2522,
+      accounts:  [process.env.WALLET_KEY]
+    },
     mumbai: {
       url: process.env.PolyApiKey,
       accounts: [ process.env.privateKey ]

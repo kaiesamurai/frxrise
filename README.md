@@ -1,76 +1,79 @@
-### Inspiration
+# FrxRise DeFi
 
-The inspiration behind Blockrise DeFi stemmed from the frustration of unused vouchers and the potential for blockchain to redefine financial transactions. We envisioned a decentralized solution that not only addressed this common problem but also embraced the principles of privacy, interoperability, and scalability on the Binance Smart Chain (BSC).
+Welcome to FrxRise DeFi, the decentralized marketplace for buying, selling, and trading vouchers, built on the Frax Testnet. Our platform aims to revolutionize voucher management through the power of blockchain technology, providing a secure and competitive environment for users.
 
-### What It Does
+## Vision
 
-Blockrise DeFi is a decentralized marketplace facilitating the secure buying, selling, and trading of vouchers. It incorporates a unique bidding system, adding a competitive element to the user experience. The project not only provides a solution for voucher management but also showcases the power of blockchain in decentralized finance.
+Our vision is to transform the voucher management ecosystem by leveraging blockchain technology for transparency, security, and innovation. We aim to create a decentralized marketplace that addresses common issues like unused vouchers and inefficiencies, embracing privacy, interoperability, and scalability.
+
+## Description
+
+**FrxRise DeFi: Buy, Sell, Trade Vouchers**
+
+FrxRise DeFi is a decentralized marketplace where users can securely buy, sell, and trade vouchers. Our unique bidding system adds a competitive edge, showcasing the potential of blockchain in decentralized finance.
 
 [Watch the Demo Video](https://youtu.be/r30ZtCotUlg)
 
-### BSC Testnet Deployment
+## Introduction
 
-- **Contract Address:** 00x9e6B513763d1D12C46C75b848D5B0675ECc9BcF3
-- [View Deployment on BSC Testnet](https://testnet.bscscan.com/address/0x9e6B513763d1D12C46C75b848D5B0675ECc9BcF3)
+Inspired by the frustration of unused vouchers and the potential for blockchain to redefine financial transactions, FrxRise DeFi was created. By utilizing the Frax Testnet, we provide a decentralized solution that ensures privacy, efficiency, and transparency in voucher transactions.
 
-![image](https://github.com/kaiesamurai/liskrise-defi/assets/168727731/5afa3359-e40d-4f78-b1cf-107abec1edae)
+### About Frax Testnet
 
-### How We Built It
+Frax Testnet is a blockchain platform designed for running smart contract-based applications. It provides high throughput and low transaction fees, making it an ideal choice for decentralized applications like FrxRise DeFi. Frax Testnet ensures a smooth and efficient user experience while maintaining high standards of security.
 
-The development journey began with a clear purpose—creating a user-friendly platform. We implemented smart contracts using the ERC721 standard, integrating Binance Smart Chain's privacy features for confidential transactions. The UI/Contract frontend was carefully designed to ensure a seamless and engaging interaction for users.
 
-### Challenges We Ran Into
+- **Contract Address:** 0xF037a5D1075DBa7aBAdc67e45a81702Bb340F16B
+- [View Deployment on Frax Testnet](https://holesky.fraxscan.com/address/0xF037a5D1075DBa7aBAdc67e45a81702Bb340F16B)
+https://holesky.fraxscan.com/address/0xF037a5D1075DBa7aBAdc67e45a81702Bb340F16B
+
+
+## How We Built It
+
+The development journey began with a clear purpose—creating a user-friendly platform. We implemented smart contracts using the ERC721 standard, integrating Frax Testnet's privacy features for confidential transactions. The UI/Contract frontend was carefully designed to ensure a seamless and engaging interaction for users.
+
+## Challenges We Ran Into
 
 Axios network errors during image loading and transitioning from ERC20 to ERC721 presented initial challenges. Testing and debugging the smart contract added complexity, and time constraints were a constant factor. However, these challenges fueled our determination to deliver a robust solution.
 
-### Accomplishments That We're Proud Of
+## Accomplishments That We're Proud Of
 
 Successfully overcoming the hurdles and delivering a functional MVP within the hackathon timeframe is a significant achievement. The integration of privacy features, the implementation of a bidding system, and the overall user experience are accomplishments we take pride in.
 
-### What We Learned
+## What We Learned
 
-The development process provided valuable insights into smart contracts, ERC721 standards, and the nuances of the Binance Smart Chain. Learning to navigate challenges, from image loading issues to adapting to a new token standard, enhanced our skills in blockchain development.
+The development process provided valuable insights into smart contracts, ERC721 standards, and the nuances of the Frax Testnet. Learning to navigate challenges, from image loading issues to adapting to a new token standard, enhanced our skills in blockchain development.
 
-### What's Next for Blockrise
+## What's Next for FrxRise
 
-Looking ahead, Blockrise aims to refine and expand its features. We plan to enhance privacy measures, optimize for scalability, and explore further interoperability with other blockchain networks. The journey continues as we strive to make Blockrise a cornerstone in the decentralized finance landscape.
+Looking ahead, FrxRise aims to refine and expand its features. We plan to enhance privacy measures, optimize for scalability, and explore further interoperability with other blockchain networks. The journey continues as we strive to make FrxRise a cornerstone in the decentralized finance landscape.
 
-We will provide users to upload their vouchers using "IPFS" in dapp
+We will provide users with the ability to upload their vouchers using "IPFS" in the dApp.
 
-So, enable trustworthy transactions and agreements to be made between dispersed, anonymous participants without the need for a centralised authority, a legal system, or an external enforcement mechanism. The key advantages of using are:
-- Speed, efficiency, and accuracy
-- Trust and transparency
-- Security
-- Resource optimization
+### Key Advantages of Using FrxRise
 
-### Tech Stacks
+- **Speed, Efficiency, and Accuracy:** Blockchain technology ensures fast and accurate transactions.
+- **Trust and Transparency:** Decentralization provides a transparent and trustless environment.
+- **Security:** Advanced cryptographic techniques secure transactions and data.
+- **Resource Optimization:** Efficient use of resources through smart contracts.
 
-- Binance Smart Chain for transactions
+## Tech Stack & Tools
+
+- Frax Testnet for transactions
 - Solidity
 - ReactJS
 - NextJS
 - Hardhat
 - Tailwind CSS
-- Polygon 
-- Ethereum
 - IPFS
 
-### Images
+## Images
 
 ![image1](https://github.com/kaiesamurai/liskrise-defi/assets/168727731/8940fa36-6157-4579-8d08-517206aae57f)
 ![image2](https://github.com/kaiesamurai/liskrise-defi/assets/168727731/9dbddfec-1e26-472b-b219-b1e78a40c30f)
 ![image3](https://github.com/kaiesamurai/liskrise-defi/assets/168727731/4dbf6dc1-6fcf-4800-ba7a-34ea668c585a)
 ![image4](https://github.com/kaiesamurai/liskrise-defi/assets/168727731/269e27f9-2833-4171-b991-69a7ab7aaf80)
 ![image5](https://github.com/kaiesamurai/liskrise-defi/assets/168727731/673ffb37-dc2a-4255-a671-1b8337e81c8a)
-
-
-
-
-
-
-Default content:-
-
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
@@ -83,7 +86,6 @@ yarn dev
 # or
 pnpm dev
 ```
-
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
